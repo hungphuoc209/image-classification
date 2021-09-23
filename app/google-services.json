@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060578230176",
+    "project_id": "cameraxtest-8ec01",
+    "storage_bucket": "cameraxtest-8ec01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060578230176:android:368553f4ed11673fe32ec5",
+        "android_client_info": {
+          "package_name": "com.example.cameraxtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060578230176-bcj2g0mn37p7jk5g41q7eabs14fvfn8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWV7uK5-ES7mmidmPChJWILFzGy7lD2sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060578230176-bcj2g0mn37p7jk5g41q7eabs14fvfn8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

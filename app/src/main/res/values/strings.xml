@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageClassification</string>
+    <string name="percent" formatted="false">%.3f</string>
+</resources>
